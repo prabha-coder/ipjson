@@ -20,7 +20,7 @@ https://ipjson.cf
 }
 ```
 
-##To Show IP address in HTML Content use this syntax
+## To Show IP address in HTML Content use this syntax
 
 *Syntax:*
 
@@ -33,7 +33,7 @@ https://ipjson.cf
 127.0.0.1
 ```
 
-##To Assign IP address to a Variable use this syntax
+## To Assign IP address to a Variable use this syntax
 
 *Syntax:*
 
